@@ -4,22 +4,38 @@ layout: home
 
 hero:
   name: "NITCShell"
-  text: "Documentation for NITCShell"
-  tagline: My great project tagline
+  text: "Documentation"
+  tagline: Building a shell from scratch using C++
+  image:
+    src: /purple-shell.png
+    alt: NITC Shell Logo
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Get Started
+      link: /introduction
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: View Architecture
+      link: /architecture
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - icon: 📚
+    title: Introduction
+    details: Learn about the project goals, objectives, and prerequisites
+    link: /introduction
+  
+  - icon: 🏗️
+    title: Architecture
+    details: Understand the system design and components
+    link: /architecture
+  
+  - icon: 📖
+    title: Reading Material
+    details: Essential resources and background reading
+    link: /reading-material
+  
+  - icon: 🚀
+    title: 5 Implementation Stages
+    details: Step-by-step guide from basic shell to advanced features
+    link: /stages/stage-1
 ---
 
