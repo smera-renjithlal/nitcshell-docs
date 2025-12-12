@@ -57,7 +57,3 @@ Pro tip: ...
 Brief preview of Stage 2 and how it builds on this stage.
 
 ---
-
-**Navigation:**
-- [← Reading Material](/reading-material)
-- [Stage 2 →](/stages/stage-2)
